@@ -55,7 +55,7 @@ Stream Processing → Time Series DB → Batch Processing → Model Training
 ## Installation
 Clone the repository:
 ```sh
-git clone https://github.com/gyimah3/smart_home_energy.git
+git clone https://github.com/PraveenAntenor/smart-home-energy.git
 cd smart_home_energy
 ```
 
