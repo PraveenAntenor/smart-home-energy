@@ -14,7 +14,7 @@ Contributing
 
 Overview
 This project implements a sophisticated smart home energy  system using transformer-based deep learning. 
-*Predict energy consumption patterns
+*Predict energy consumption patterns<br>
 *Identify users based on device usage patterns
 *Detect anomalies in energy consumption
 *Provide real-time insights and recommendations
