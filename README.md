@@ -11,16 +11,16 @@ Data Collection
 Model Architecture
 Usage
 Contributing
-License
-Overview
-This project implements a sophisticated smart home energy monitoring system using transformer-based deep learning. The system processes real-time data from various sensors(to be implementated by You) and smart plugs to:
 
-Predict energy consumption patterns
-Identify users based on device usage patterns
-Detect anomalies in energy consumption
-Provide real-time insights and recommendations
-Generate automated alerts for unusual activities
-Features
+Overview
+This project implements a sophisticated smart home energy  system using transformer-based deep learning. 
+*Predict energy consumption patterns
+*Identify users based on device usage patterns
+*Detect anomalies in energy consumption
+*Provide real-time insights and recommendations
+*Generate automated alerts for unusual activities
+
+##Features
 Core Functionality
 Real-time energy consumption monitoring
 User identification and behavior analysis
