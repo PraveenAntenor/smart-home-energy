@@ -1,6 +1,6 @@
 # smart-home-energy
 ## Transformer-Based Energy Usage Analysis and User Behavior Prediction
-A real-time smart home energy monitoring system that utilizes transformer architecture to analyze energy consumption patterns, identify users, and detect anomalies in household energy usage.
+A real-time smart home energy that utilizes transformer architecture to analyze energy consumption patterns, identify users, and detect anomalies in household energy usage.
 
 ## Table of Contents
 - [Overview](#overview)
@@ -11,11 +11,10 @@ A real-time smart home energy monitoring system that utilizes transformer archit
 - [Model Architecture](#model-architecture)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
+  
 
 ## Overview
-This project implements a sophisticated smart home energy monitoring system using transformer-based deep learning. The system processes real-time data from various sensors (to be implemented by you) and smart plugs to:
-
+This project implements a sophisticated smart home energy using transformer-based deep learning. 
 - Predict energy consumption patterns
 - Identify users based on device usage patterns
 - Detect anomalies in energy consumption
