@@ -1,8 +1,8 @@
 # smart-home-energy
-Transformer-Based Energy Usage Analysis and User Behavior Prediction
+## Transformer-Based Energy Usage Analysis and User Behavior Prediction
 A real-time smart home energy monitoring system that utilizes transformer architecture to analyze energy consumption patterns, identify users, and detect anomalies in household energy usage.
 
-Table of Contents
+## Table of Contents
 Overview
 Features
 System Architecture
@@ -47,7 +47,7 @@ Storage Layer
 Stream Processing → Time Series DB → Batch Processing → Model Training
 Installation
 Clone the repository:
-git clone https://github.com/gyimah3/smart_home_energy.git
+git clone https://github.com/PraveenAntenor/smart-home-energy.git
 cd smart_home_energy
 Create and activate virtual environment:
 python -m venv venv
